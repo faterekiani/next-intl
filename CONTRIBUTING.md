@@ -10,4 +10,4 @@
 ## style guide
 
 - commit like this
-  **type (scope): shortMessage**
+  ** scope: shortMessage**
