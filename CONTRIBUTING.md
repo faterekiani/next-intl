@@ -5,7 +5,7 @@
 - clone project
 - `npm install`
 - ...
-- before commit `npm tun test`
+- before commit `npm run test`
 
 ## style guide
 
